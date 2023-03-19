@@ -1,6 +1,7 @@
 #!/bin/bash
 #Install volatility 2 no Kali Linux 2020-4
-
+# Kali Linux 100% Ok
+# Kali Purple 100%  Ok
 apt update
 apt install -y build-essential git libdistorm3-dev yara libraw1394-11 libcapstone-dev capstone-tool tzdata curl
 
